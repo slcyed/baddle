@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "colors-cli": "^1.0.28",
+    "prompts": "^2.4.2"
+  }
+}
